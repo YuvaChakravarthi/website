@@ -1,0 +1,84 @@
+.bg{
+    background-image:linear-gradient(green,red);
+    width: 100;
+
+}
+.headd{
+    color:rgba(255, 210, 60, 0.945);
+    font-size:30px;
+
+
+}
+.head1{
+    margin-top:20px;
+    color: rgb(214, 203, 202);
+    font-size: 50px;
+    font-weight: 200px;
+    font-family: "baskerville";
+    border-radius: 20px;
+}
+.image1{
+    width:75%;
+    border-radius: 20px;
+    margin: 20px;
+}
+.head2{
+    font-size: 30px;
+    font-family:"Roman";
+    color:#ffd8db;
+    font-weight:bold;
+}
+.para{
+    font-size: 25px;
+    font-family:"Roboto" ;
+    color:rgb(202, 255, 200)
+}
+.new{
+    border: 2px;
+    color:brown;
+}
+.head3{
+    color:rgb(207, 207, 207);
+    text-align: center;
+    font-size:35px;
+    font-family:"Roboto";
+
+}  
+.para2{
+    font-size: 30px;
+    font-family:"Roboto";
+    color:white;
+} 
+.para1{
+    font-size: 30px;
+    color:rgb(240, 191, 191);
+    font-family: "Roboto";
+
+}
+.head4{
+    text-align: center;
+    color:rgb(192, 192, 192);
+    font-size:30px;
+    font-weight: bold;
+}
+.image2{
+    margin:20px;
+    height:200px;
+    width:200px;
+    border-radius: 100px;
+    text-align: center;
+
+}
+.para2{
+    color:blanchedalmond;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+.para3{
+    color:aquamarine;
+    font-size: 30px;
+    font-family: "Roboto";
+}
+.date{
+    color:#ffb7b7;
+}
